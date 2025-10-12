@@ -36,10 +36,10 @@
 ### 💬 Contato
 
 <p align="center">
-  <a href="[Nicolas-Silva](https://www.linkedin.com/in/nicolas-silva-4094352b8" target="_blank">
+  <a href="https://www.linkedin.com/in/nicolas-silva-4094352b8" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="email:nicolasvalsi203@gmail.com">
+  <a href="mailto:nicolasvalsi203@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
