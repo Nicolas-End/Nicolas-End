@@ -19,7 +19,7 @@
 ### 🧰 Tecnologias que uso
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,js,ts,html,css,mongodb,mysql,git,github,linux,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,mongodb,mysql,git,github,linux,vscode&perline=6" />
 </p>
 
 ---
