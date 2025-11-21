@@ -1,7 +1,7 @@
 <h1 align="center">🌙 Olá, eu sou o Nicolas!</h1>
 
 <p align="center">
-  <em>Estudante de Ensino Médio | Apaixonado por Programação 💻 | Futuro especialista em Cibersegurança 🔐</em>
+  <em>Estudante de Ensino Médio | Apaixonado por Programação 💻 | Futuro especialista em Cibersegurança e Back-End 🔐</em>
 </p>
 
 ---
