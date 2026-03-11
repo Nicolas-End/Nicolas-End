@@ -1,26 +1,33 @@
-<h1 align="center">🌙 Olá, eu sou o Nicolas!</h1>
+<h1 align="center">👨‍💻 Olá, eu sou o Nicolas!</h1>
 
 <p align="center">
-  <em>Estudante de Ensino Médio | Apaixonado por Programação 💻 | Futuro especialista em Cibersegurança e Back-End 🔐</em>
+  <em>Estudante de Tecnologia | Desenvolvedor Back-End | Focado em Java e Cibersegurança 🔐</em>
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-- 🐍 Adoro programar em **Python**
-- ☕ Também estudo **Java** e **JavaScript**
-- 🧠 Tenho interesse em **desenvolvimento web** e **segurança da informação**
-- 🎮 Gosto de jogar **Brawlhalla** no tempo livre
-- 📚 Sempre aprendendo algo novo!
+- ☕ Foco principal em desenvolvimento **Back-End com Java**  
+- 🔐 Interesse em **Cibersegurança e Arquitetura de Sistemas**  
+- 🗄️ Experiência com **bancos de dados relacionais e não relacionais**  
+- 📚 Sempre estudando novas tecnologias e boas práticas de desenvolvimento  
+- 🧠 Perfil analítico, com facilidade para resolver problemas e entender sistemas  
 
 ---
 
-### 🧰 Tecnologias que uso
+### 🧰 Tecnologias que utilizo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,mongodb,mysql,git,github,linux,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,html,css,mongodb,mysql,git,github,linux,vscode&perline=6" />
 </p>
+
+**Principais áreas de estudo:**
+
+- ☕ **Back-End:** Java, APIs REST, arquitetura de aplicações  
+- 🗄️ **Banco de Dados:** MongoDB, MySQL  
+- 🌐 **Web:** HTML, CSS, JavaScript / TypeScript  
+- ⚙️ **Ferramentas:** Git, GitHub, Linux, VS Code  
 
 ---
 
@@ -30,6 +37,19 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nicolas-End&show_icons=true&theme=radical" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nicolas-End&theme=radical" />
 </p>
+
+---
+
+### 🎯 Objetivos
+
+Atualmente estou focado em evoluir minhas habilidades em:
+
+- Desenvolvimento **Back-End com Java e Spring**
+- **Arquitetura de APIs**
+- **Banco de dados e modelagem de sistemas**
+- **Segurança da informação**
+
+Busco oportunidades para aplicar meus conhecimentos em projetos reais e contribuir para o desenvolvimento de soluções eficientes e seguras.
 
 ---
 
@@ -46,4 +66,4 @@
 
 ---
 
-<p align="center">✨ “O único limite para o que você pode fazer é o quanto você acredita em si mesmo.” ✨</p>
+<p align="center">🚀 Construindo conhecimento um commit por vez.</p>
